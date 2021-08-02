@@ -1,2 +1,2 @@
 # LP2
-#### Repositório destinados para projetos de LP2
+###### Repositório destinado para projetos de LP2
